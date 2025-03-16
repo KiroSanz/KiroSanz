@@ -1,16 +1,27 @@
-## Hi there 👋
+<style>
+.blinking-text {
+    animation: blink 1s infinite;
+    font-size: 24px;
+    font-weight: bold;
+    color: #00b4d8;
+}
 
-<!--
-**KiroSanz/KiroSanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+</style>
 
-Here are some ideas to get you started:
+<p class="blinking-text">I'm < I.S.B > </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👋 Hey! I'm ISB, but you can call me Kiro
+💻 Front-End Developer | Python | JavaScript
+🌱 Currently learning Java & React
+🚀 Focused on creating innovative and efficient solutions
+📫 How to reach me:
+ - LinkedIn: https://bit.ly/linkedin-kiro
+ - Portfolio: coming soon...
+ - Email: snhodeicaro@gmail.com
+✨ "Turning ideas into code, one commit at a time."
