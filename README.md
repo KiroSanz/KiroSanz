@@ -5,7 +5,7 @@
 </div>
 
 <p align="center" style="strong">
-Trying to learn some languages to be an Full-Stack Developer
+Newbie Developer Trying to be a Full-Stack
 </p>
 
 <p align="center">
